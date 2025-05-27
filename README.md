@@ -10,7 +10,7 @@
 
 ### 🧙‍♂️ About Me
 
-- 🧑‍💻 Alias: Mahesh aka **MrDalle**
+- 🧑‍💻 Alias: Mahesh aka **CryptoDai**
 - 🎯 Mission: Automate Web3 tasks for airdrop grinders — no BS, no paywalls.
 - 🛠️ Currently Building: Auto Bots for Merak, Pharos, Interlink, and more
 - 💯 **Promise:** I never charge, and I never will But Need Support.
