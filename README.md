@@ -32,5 +32,4 @@
 - [**Tools**](https://github.com/cryptodai3?tab=repositories&q=tool) – A growing set of useful tools, scripts, and automation magic.
 ---
 
-> 🧩 “I don’t sell courses. I build tools. And share alpha — 100% free.”  
 > — CRYPTODAI (Mahesh)
